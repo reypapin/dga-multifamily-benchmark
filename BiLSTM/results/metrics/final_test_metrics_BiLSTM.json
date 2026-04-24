@@ -1,0 +1,11 @@
+{
+  "model": "BiLSTM+Attention",
+  "reference": "Namgung et al., Security and Communication Networks 2021",
+  "Accuracy Mean": 0.8916358024691357,
+  "F1 Score Mean": 0.8556412635570653,
+  "Precision Mean": 0.9134265782380061,
+  "Recall Mean": 0.8432716049382714,
+  "FPR Mean": 0.06000000000000001,
+  "TPR Mean": 0.8432716049382714,
+  "Query Time Mean": 6.697714552466618e-05
+}

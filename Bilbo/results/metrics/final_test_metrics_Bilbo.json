@@ -1,0 +1,11 @@
+{
+  "model": "Bilbo",
+  "reference": "Higham et al., SN Computer Science 2021",
+  "Accuracy Mean": 0.9206975308641974,
+  "F1 Score Mean": 0.8999627152926996,
+  "Precision Mean": 0.9303095608495313,
+  "Recall Mean": 0.8953950617283952,
+  "FPR Mean": 0.054000000000000006,
+  "TPR Mean": 0.8953950617283952,
+  "Query Time Mean": 7.801997703086341e-05
+}

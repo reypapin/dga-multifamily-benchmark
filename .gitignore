@@ -1,0 +1,32 @@
+# Large data
+Dataset/
+Fanci/
+
+# Model weights and raw predictions
+*/model/
+*/results/raw/
+
+# Internal working files
+.claude/
+__pycache__/
+HF_Upload/
+Paper_Reply/
+EDITING_PROGRESS.md
+CLAUDE.md
+Graph.md
+RESULTS_COMPARISON.md
+main.tex
+main_original.tex
+conference_101719.tex
+conference_101719.pdf
+slope_graph.py
+
+# PDFs (not the paper itself)
+DGA_Detector-10.pdf
+IEEE_Conference_Template.pdf
+RAMPAGE.pdf
+"Down to earth! Guidelines for DGA-based Malware Detection.pdf"
+
+# Python cache
+*.pyc
+*.pyo

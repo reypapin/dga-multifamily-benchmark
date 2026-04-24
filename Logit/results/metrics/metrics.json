@@ -1,0 +1,20 @@
+{
+  "model_mode": "logreg",
+  "rows": 1053064,
+  "train_rows": 845626,
+  "test_rows": 207438,
+  "train_families": 44,
+  "test_families": 12,
+  "precision": 0.9523661443120356,
+  "recall": 0.8623578274117801,
+  "f1": 0.9051298290056998,
+  "roc_auc": 0.9624668116594544,
+  "load_seconds": 13.00264563799999,
+  "fit_tfidf_seconds": 52.57455525699993,
+  "transform_tfidf_seconds": 6.19063909099998,
+  "lex_train_seconds": 32.70536377499991,
+  "lex_test_seconds": 7.116318890999992,
+  "scale_train_seconds": 0.25359418700008973,
+  "scale_test_seconds": 0.020833476000007067,
+  "fit_seconds": null
+}
