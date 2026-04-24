@@ -10,14 +10,12 @@ ARGENCON 2026 (IEEE)
 
 This repository contains the paper source, evaluation code, and results for a benchmark study of seven DGA detection models across 79 malware families.
 
-The study introduces an evaluation methodology organized around four scenarios:
+The study introduces an evaluation methodology organized around four scenarios, defined by two splits (seen / unseen families) and two family types (all / word list only):
 
-| Scenario | Families | Type |
-|---|---|---|
-| S1 | 54 seen | All |
-| S2 | 54 seen | Word list only |
-| S3 | 25 unseen | All |
-| S4 | 25 unseen | Word list only (hardest) |
+|                 | All families | Word list only |
+|-----------------|:---:|:---:|
+| **Seen (54)**   | S1  | S2  |
+| **Unseen (25)** | S3  | S4 ← hardest case |
 
 Inference time and performance under class imbalance (1:1, 1:10, 1:100) are reported as deployment considerations.
 
